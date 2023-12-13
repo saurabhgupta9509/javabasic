@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "nes",
+            "request": "launch",
+            "mainClass": "nes",
+            "projectName": "Brackets_8ace17a3"
+        },
+        {
+            "type": "java",
+            "name": "patterns",
+            "request": "launch",
+            "mainClass": "patterns",
+            "projectName": "Brackets_8ace17a3"
+        },
+        {
+            "type": "java",
+            "name": "oddeven",
+            "request": "launch",
+            "mainClass": "oddeven",
+            "projectName": "Brackets_8ace17a3"
+        },
+        {
+            "type": "java",
+            "name": "Pi",
+            "request": "launch",
+            "mainClass": "Pi",
+            "projectName": "Brackets_1cbd6efb"
+        },
+        {
+            "type": "java",
+            "name": "greaternumbers",
+            "request": "launch",
+            "mainClass": "greaternumbers",
+            "projectName": "Brackets_1cbd6efb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "Brackets_1cbd6efb"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "Brackets_1cbd6efb"
+        },
+        {
+            "type": "java",
+            "name": "oddeven",
+            "request": "launch",
+            "mainClass": "oddeven",
+            "projectName": "Brackets_1cbd6efb"
+        }
+    ]
+}
